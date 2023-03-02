@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Elite Adventure</string>
+    <string name="cannot_open_file_chooser_txt">Can not open file chooser</string>
+    <string name="fb_login_protocol_scheme">fb875857787026144</string>
+    <string name="camera_permission_denied_txt">Permission denied</string>
+    <string name="facebook_client_token">521708b59b659f157ebd82e64699fab8</string>
+    <string name="camera_permission_granted_txt">Permission granted</string>
+    <string name="facebook_app_id">875857787026144</string>
+</resources>
